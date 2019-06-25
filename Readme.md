@@ -13,5 +13,15 @@ Each goal with follow a similar process to track it's progress.
 
 - Proof of completion: Links to completed work
 
+## General goals
+
+- Use tools to track learning
+- TDD right away
+- Don't stress about completion, learning objections are more important than projects.
+- Communicate with peers, make you ask for feedback and keep it.
+- Pace yourself; take breaks; time-box your weekend; no more than 1 hour an evening
+- Use the coaches, don't be afraid to ask.
+- Rely on your cohort.
+
 ## Notes
 Resources - https://github.com/makersacademy/course/blob/master/goals/self_directed_learning/resources/tracking_your_learning.md
