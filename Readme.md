@@ -25,3 +25,5 @@ Each goal with follow a similar process to track it's progress.
 
 ## Notes
 Resources - https://github.com/makersacademy/course/blob/master/goals/self_directed_learning/resources/tracking_your_learning.md
+Finished - FizzBuzz debugging https://github.com/makersacademy/skills-workshops/tree/master/week-1/debugging_fizzbuzz
+Finished - Git and Research https://github.com/makersacademy/skills-workshops/tree/master/week-1/git_and_research
