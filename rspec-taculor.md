@@ -24,6 +24,7 @@
 
 ### Proof of completion: Links to completed work
 
-- Best cheat sheet https://www.rubypigeon.com/posts/rspec-expectations-cheat-sheet/
+- Read matcher cheat sheet https://www.rubypigeon.com/posts/rspec-expectations-cheat-sheet/
+- Read Core cheat sheet https://www.rubypigeon.com/posts/rspec-core-cheat-sheet/ 
 - Birthday's task completed. https://github.com/Timdavidcole/birthdays
 - Boris bikes completed. https://github.com/Timdavidcole/Boris_Bikes
