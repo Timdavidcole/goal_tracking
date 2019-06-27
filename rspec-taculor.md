@@ -1,12 +1,11 @@
 ## Goal
 
-- Procure and read rspec cheat
-- Let tests write code, not code write tests.
+- Feel more competent about rspec.
 
 ### Learning Objective - S.M.A.R.T goals. Specific, Measurable, Achievable, Realistic, Time-bound.
 
-- Make sure I give once piece of solid feedback each pairing session.
-- Make sure I receive one piece of solid feedback each pairing session.
+- Research and read rspec cheat sheets.
+- Work through TDD exercises on week_outlines.
 
 ### Evidence: How will I know I achieved it?
 
@@ -23,7 +22,7 @@
 
 ### Proof of completion: Links to completed work
 
-__Pairing session feedback__
+#### __Pairing session feedback__
 
 26/06 Harry: _Said I had strong desire to understand concepts, not just complete exercises_. He did a good job of making sure we didn't get bogged down.
 
