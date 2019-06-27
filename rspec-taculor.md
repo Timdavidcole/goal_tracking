@@ -11,6 +11,7 @@
 
 - Will feel more competent.
 - Able to write simple tests without googling.
+- Write a test for each expectation/matcher on https://www.rubypigeon.com/posts/rspec-expectations-cheat-sheet/
 
 ### Validate: How will I know how well I did?
 
