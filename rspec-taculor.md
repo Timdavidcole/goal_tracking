@@ -14,10 +14,15 @@
 
 ### Validate: How will I know how well I did?
 
-- 
+- Completed Makers practicals
 
 ### Learning resources and strategies: What resources and methods wil help me achieve the objective?
 
-
+- https://www.rubypigeon.com/posts/rspec-expectations-cheat-sheet/
+- Makers practicals
 
 ### Proof of completion: Links to completed work
+
+- Best cheat sheet https://www.rubypigeon.com/posts/rspec-expectations-cheat-sheet/
+- Birthday's task completed. https://github.com/Timdavidcole/birthdays
+- Boris bikes completed. https://github.com/Timdavidcole/Boris_Bikes
