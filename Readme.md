@@ -23,6 +23,12 @@ Each goal with follow a similar process to track it's progress.
 - Use the coaches, don't be afraid to ask.
 - Rely on your cohort.
 
+## Stand-Ups
+
+-What did you do yesterday?
+-What are you going to do today?
+-Is there anything blocking you?
+
 ## Notes
 Resources - https://github.com/makersacademy/course/blob/master/goals/self_directed_learning/resources/tracking_your_learning.md
 
