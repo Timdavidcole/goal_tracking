@@ -24,6 +24,8 @@ Get better at giving and receiving feedback.
 
 __Pairing session feedback__
 
-26/06 Harry: _Said I had strong desire to understand concepts, not just complete exercises_. He did a good job of making sure we didn't get bogged down.
+25/06 Harry: _Said I had strong desire to understand concepts, not just complete exercises_. He did a good job of making sure we didn't get bogged down.
 
-27/06 James: _Pleased I didn't want to work into the night_.  Strong methodological approach.
+26/06 James: _Pleased I didn't want to work into the night_.  Strong methodological approach.
+
+27/06 Dan: _I was able to not be impatient with material I'd already worked on.  Needed to pay attention to my TABing/Double spacing._ Dan managed to adapt well to my more chaotic and egalitarian pairing approach.
