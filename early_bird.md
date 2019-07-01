@@ -22,4 +22,5 @@ Arrive @ 8:30am everyday, to prepare and set goals for rest of day.  Plus leave 
 ### Proof of completion: Links to completed work
 
 Week_1 - Mon, Tues, Thurs, Fri - 4/5
+Week_2 - Mon
 
